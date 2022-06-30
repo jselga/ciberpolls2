@@ -1,0 +1,134 @@
+1656522406234	geckodriver	INFO	Listening on 127.0.0.1:41587
+1656522406719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileakDYyo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1656522408775	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:34241
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileakDYyo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1656522412448	Marionette	INFO	Listening on port 42641
+DevTools listening on ws://localhost:34241/devtools/browser/0bdfc505-c4ff-4401-863f-0849398b80fc
+Read port: 42641
+1656522412566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656522413325	Marionette	INFO	Stopped listening on port 42641
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656522777987	geckodriver	INFO	Listening on 127.0.0.1:43019
+1656522778493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUOEnI6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1656522780270	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:39133
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUOEnI6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1656522783633	Marionette	INFO	Listening on port 35499
+DevTools listening on ws://localhost:39133/devtools/browser/68cf39e6-ba76-4431-8bfe-dd926a2be067
+Read port: 35499
+1656522783756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656522784889	Marionette	INFO	Stopped listening on port 35499
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1656522844352	geckodriver	INFO	Listening on 127.0.0.1:35359
+1656522844862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQQOtRb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1656522846400	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52783
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQQOtRb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1656522849655	Marionette	INFO	Listening on port 42323
+Read port: 42323
+1656522849700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52783/devtools/browser/29e6c1d8-fc64-49f9-a8a1-6703886c1a5f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:60111"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:60111"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656522856194	Marionette	INFO	Stopped listening on port 42323
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1656522946507	geckodriver	INFO	Listening on 127.0.0.1:41561
+1656522946524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefdRHIW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1656522948032	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:48877
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefdRHIW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1656522950954	Marionette	INFO	Listening on port 43569
+DevTools listening on ws://localhost:48877/devtools/browser/a5d23d4d-541a-45ba-80ea-be6e170443c9
+Read port: 43569
+1656522951056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53111"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53111"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656522952605	Marionette	INFO	Stopped listening on port 43569
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1656522994687	geckodriver	INFO	Listening on 127.0.0.1:50849
+1656522995194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiUhaPP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1656522996843	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:33643
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiUhaPP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1656523000651	Marionette	INFO	Listening on port 44283
+DevTools listening on ws://localhost:33643/devtools/browser/acf477ad-8e8c-48ea-a77c-8824a27d3143
+Read port: 44283
+1656523000734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:56143"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:56143"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1656523022843	Marionette	INFO	Stopped listening on port 44283
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656523090573	geckodriver	INFO	Listening on 127.0.0.1:56065
+1656523091077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejj11JS"
+*** You are running in headless mode.
+1656523092022	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59091
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejj11JS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1656523094844	Marionette	INFO	Listening on port 34485
+DevTools listening on ws://localhost:59091/devtools/browser/1a4b727e-a04c-4045-a013-54a3b2a15932
+Read port: 34485
+1656523094944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:47751"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:47751"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656523107142	geckodriver	INFO	Listening on 127.0.0.1:51285
+1656523107646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeiUJKe"
+*** You are running in headless mode.
+1656523108564	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:35389
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeiUJKe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1656523111684	Marionette	INFO	Listening on port 39025
+DevTools listening on ws://localhost:35389/devtools/browser/d3400eec-62ae-4586-8862-dfdab5767ab1
+Read port: 39025
+1656523111789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:58869"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:58869"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null

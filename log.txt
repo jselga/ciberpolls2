@@ -1,0 +1,26 @@
+Watching for file changes with StatReloader
+[29/Jun/2022 17:28:04] "GET /admin/ HTTP/1.1" 200 5583
+[29/Jun/2022 17:28:04] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[29/Jun/2022 17:28:06] "GET /admin/auth/user/ HTTP/1.1" 200 8634
+[29/Jun/2022 17:28:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[29/Jun/2022 17:28:06] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[29/Jun/2022 17:28:06] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[29/Jun/2022 17:28:06] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+[29/Jun/2022 17:28:08] "GET /admin/auth/user/1/change/ HTTP/1.1" 200 16388
+[29/Jun/2022 17:28:08] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[29/Jun/2022 17:28:08] "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4360
+[29/Jun/2022 17:28:08] "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12350
+[29/Jun/2022 17:28:08] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[29/Jun/2022 17:28:08] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[29/Jun/2022 17:28:08] "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[29/Jun/2022 17:28:08] "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[29/Jun/2022 17:28:08] "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[29/Jun/2022 17:28:08] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[29/Jun/2022 17:28:08] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 29, 2022 - 17:27:59
+Django version 3.2, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
